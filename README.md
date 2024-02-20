@@ -1,16 +1,13 @@
 # listing_screen
 
-A new Flutter project.
+Task: Simple Listing Screen with select functionality
 
-## Getting Started
+List 1: Contains the initial Item List 
 
-This project is a starting point for a Flutter application.
+List 2: Contains the selected list(Selected from List 1)
 
-A few resources to get you started if this is your first Flutter project:
+OnClick of the Item the elements get moved to the second list and vice versa and display a toast msg.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ScreenShot: https://github.com/curiousvsa/FlutterSimpleListingScreen/assets/46339440/933a29f4-9f3d-4230-8985-090ad600ef74
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
